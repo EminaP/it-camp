@@ -1,0 +1,30 @@
+.CARD1 {
+  border: 7px black solid;
+  height: 500px;
+  width: 200px;
+}
+
+.CARD2 {
+  border: 7px black solid;
+  height: 500px;
+  width: 200px;
+  position: absolute;
+  top: 10px;
+  left: 250px;
+}
+.CARD3 {
+  border: 7px black solid;
+  height: 500px;
+  width: 200px;
+  top: 10px;
+  position: absolute;
+  left: 500px;
+}
+.CARD4 {
+  border: 7px black solid;
+  height: 500px;
+  width: 200px;
+  top: 10px;
+  position: absolute;
+  left: 750px;
+}

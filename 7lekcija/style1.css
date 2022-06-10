@@ -1,0 +1,43 @@
+.CARD1 {
+  border: 7px black solid;
+  background-color: aquamarine;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 80px;
+  z-index: 1;
+}
+
+.CARD2 {
+  border: 7px black solid;
+  background-color: red;
+  height: 450px;
+  width: 200px;
+  position: absolute;
+  top: 100px;
+  left: 250px;
+  z-index: 2;
+}
+.CARD3 {
+  border: 7px black solid;
+  background-color: blue;
+
+  height: 200px;
+  width: 800px;
+  top: 400px;
+  position: absolute;
+  left: 200px;
+  z-index: 3;
+}
+.CARD4 {
+  border: 7px black solid;
+  background-color: green;
+
+  height: 500px;
+  width: 200px;
+  top: 10px;
+
+  position: absolute;
+  left: 950px;
+  z-index: 4;
+}
